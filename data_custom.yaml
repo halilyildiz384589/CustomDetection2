@@ -1,0 +1,6 @@
+# path: C:\\Users\\halil\\Desktop\\OpenCV_python\\customdetection3\\data
+train: C:\\Users\\halil\\Desktop\\OpenCV_python\\customdetection3\\train
+val: C:\\Users\\halil\\Desktop\\OpenCV_python\\customdetection3\\val
+
+names:
+  0: alpaca
